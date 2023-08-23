@@ -1,0 +1,4 @@
+deep-sort-realtime
+numpy
+opencv-python
+torch
